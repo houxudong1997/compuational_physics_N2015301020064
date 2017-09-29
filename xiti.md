@@ -7,4 +7,4 @@ Compare your result with the exact solution.
 并且绘制出x-t曲线。曲线如下图所示。
 ![图像](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/%E5%9B%BE%E5%83%8F.png)
 * 近似解与实际解之间不存在误差。
-* [代码]()
+* [代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/Euler%20mothed.py)
