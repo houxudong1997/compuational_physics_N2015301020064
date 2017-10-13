@@ -20,3 +20,5 @@ former automatically rules out the latter).
 
 ### 作图
 分别以角度变化间隔为5度和1度做整合图如图：
+![da=5]()
+![da=1]()
