@@ -21,4 +21,4 @@ former automatically rules out the latter).
 ### 作图
 分别以角度变化间隔为5度和1度做整合图如图：
 ![da=5](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/cannonshell1.png?raw=true)
-![da=1]()
+![da=1](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/cannonshell.png?raw=true)
