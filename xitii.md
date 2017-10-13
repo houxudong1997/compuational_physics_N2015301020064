@@ -26,4 +26,4 @@ former automatically rules out the latter).
 ![1]()
 ![2]()
 ![3]()
-![4]()
+![4](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014029.png?raw=true)
