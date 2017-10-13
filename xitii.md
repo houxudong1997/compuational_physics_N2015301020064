@@ -23,7 +23,7 @@ former automatically rules out the latter).
 ![da=5](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/cannonshell1.png?raw=true)
 ![da=1](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/cannonshell.png?raw=true)
 作图同时程序收集了各个角度发射时的射程并打印出来：
-![1]()
+![1](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014044.png?raw=true)
 ![2](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014040.png?raw=true)
 ![3](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014034.png?raw=true)
 ![4](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014029.png?raw=true)
