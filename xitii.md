@@ -28,4 +28,9 @@ former automatically rules out the latter).
 ![3](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014034.png?raw=true)
 ![4](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014029.png?raw=true)
 射程最远为角度为45度时，轨迹如图：
-![45]()
+![45](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171014014854.png?raw=true)
+
+### 结论
+1、当炮弹出射速度一定且不考虑空气阻力等影响条件下，出射角度为45度时射程为最远。
+
+2、与2.4相比，炮弹在不考虑空气影响下会有更远的行进距离。
