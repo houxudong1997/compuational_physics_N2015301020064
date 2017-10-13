@@ -15,5 +15,5 @@ former automatically rules out the latter).
 
 3、忽略了空气阻力等的影响，当<a href="http://www.codecogs.com/eqnedit.php?latex=y_{i&plus;1}<&space;0" target="_blank"><img src="http://latex.codecogs.com/png.latex?y_{i&plus;1}<&space;0" title="y_{i+1}< 0" /></a>而<a href="http://www.codecogs.com/eqnedit.php?latex=y_{i}=&space;0" target="_blank"><img src="http://latex.codecogs.com/png.latex?y_{i}=&space;0" title="y_{i}= 0" /></a>时炮弹落地，此时x为炮弹射程。
 
-###编程
+### 编程
 模拟地面情况，<a href="http://www.codecogs.com/eqnedit.php?latex=g=&space;9.8" target="_blank"><img src="http://latex.codecogs.com/png.latex?g=&space;9.8" title="g= 9.8" /></a>，设炮弹出射速度为700，忽略空气阻力的理想情况下，为了比较各个角度出射的射程大小，改变出射角度做多组图像。[编程代码]()
