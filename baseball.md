@@ -19,7 +19,7 @@ z时，即<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{S_{0}}{m}" ta
 ### 思路
 由于侧旋带来力使轨迹横向偏移，则抛球手在保证一定抛射角a1的同时，需要横向的角度偏差a2，使得球准确击中或者说落于9m远处平行点处，假定抛出球的速度为80mph，换算为178m/s
 ，编程分别画出x-y，x-z轨迹图，可以清楚地看到球的运动轨迹情况。
-### [代码]()
+### [代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/Baseball.py)
 
 
 ### 调试
