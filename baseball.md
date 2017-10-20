@@ -25,7 +25,7 @@ z时，即<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{S_{0}}{m}" ta
 ### 调试
 需调试改变a1,a2的值，使得抛出的球准确击中9m远处的平行点。
 ### 图
-![图]()
+![图](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171020151233.png?raw=true)
 ### 结果分析
 调试可以出现我们理想的效果，即向上角度为0.079度，侧偏角度为0.06度时，球击中目标。即转速为2000rpm时找准角度是可行的。理性分析两者（角度）应该存在共轭，即角度值
 不唯一。可以看到角度都为很小角度，考虑到抛出速度极快且路程极短，角度极小也就可以理解了。
