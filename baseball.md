@@ -23,7 +23,7 @@ z时，即<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{S_{0}}{m}" ta
 
 
 ### 调试
-需调试改变a1,a2的值，使得抛出的球准确击中9m远处的平行点。
+需多次耐心调试改变a1,a2的值，使得抛出的球准确击中9m远处的平行点。
 ### 图
 ![图](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/TIM%E5%9B%BE%E7%89%8720171020151233.png?raw=true)
 ### 结果分析
