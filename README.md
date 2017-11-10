@@ -8,4 +8,4 @@
  - [x] 第六次作业：课后习题[作业报告](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/baseball.md)&[源代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/Baseball.py)
  - [x] 第七次作业：课后习题[作业报告](http://note.youdao.com/noteshare?id=9262e4049caca7edde77605545dc6817)&[源代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/chaos.py)
  - [x] 第八次作业：课后习题[作业报告](http://note.youdao.com/noteshare?id=a527ff859322e2a0e3b3f3a8ef02fa24)&[源代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/fencha.py)
- - [x] 第九次作业：课后习题[作业报告]()&[源代码]()
+ - [x] 第九次作业：课后习题[作业报告](http://note.youdao.com/noteshare?id=2b433f1f7c70b74622aaea29c72d39b8)&[源代码1]()&[源代码2]()&[源代码3]()&[源代码4]()&[源代码5]()&[源代码6]()
