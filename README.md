@@ -13,4 +13,4 @@
  - [x] 期中作业：[作业报告](http://note.youdao.com/noteshare?id=8d475b6f6132b1b20495df902383097b)&[代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/tafang.py)
  - [x] 第十次作业：课后习题[作业报告](http://note.youdao.com/noteshare?id=8fdf9abd647b4c50df1c8fe25ef2d38a)&[代码1](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/threebody.py)&[代码2](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/threebodyy.py)
  - [x] 第十一次作业：课后习题[作业报告](http://note.youdao.com/noteshare?id=113e2f86488aec62577b465b6304317b)&[代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/V1.py)
- - [x] 第十二次作业：课后习题[作业报告]()&[代码]()
+ - [x] 第十二次作业：课后习题[作业报告]()&[代码](https://github.com/houxudong1997/compuational_physics_N2015301020064/blob/master/waves.py)
