@@ -1,4 +1,7 @@
 # 课后习题1.2
+姓名：侯旭东
+学号：2015301020064
+班级：15级材料物理班
 * Queation:The position of an object moving horizontally with a constant velocity, v, is described by the equation:
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{dx}{dt}=v" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=v" title="\frac{dx}{dt}=v" /></a> (1.9)
 Assuming that the velocity is a constant, say v=40m/s, use the Euler method to solve (1.9) for x as a function of time.
