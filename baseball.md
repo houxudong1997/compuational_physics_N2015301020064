@@ -1,5 +1,8 @@
 # 棒球运动
 ## 课后习题2.21
+姓名：侯旭东
+学号：2015301020064
+班级：15级材料物理班
 ### 题目分析
 按照之前的设定，棒球被击出后会受到空气阻力及重力影响，即<a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\mathrm{d}Vy&space;}{\mathrm{d}&space;t}=&space;-g" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}Vy&space;}{\mathrm{d}&space;t}=&space;-g" title="\frac{\mathrm{d}Vy }{\mathrm{d} t}= -g" /></a>；
 <a href="http://www.codecogs.com/eqnedit.php?latex=\frac{\mathrm{d}&space;v_{x}}{\mathrm{d}&space;t}=-\frac{B_{2}}{m}vv_{x}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}&space;v_{x}}{\mathrm{d}&space;t}=-\frac{B_{2}}{m}vv_{x}" title="\frac{\mathrm{d} v_{x}}{\mathrm{d} t}=-\frac{B_{2}}{m}vv_{x}" /></a>；
