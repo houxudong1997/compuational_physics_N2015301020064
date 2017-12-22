@@ -1,5 +1,8 @@
 # Chapter 2:Realistic Motion
 ## Exercise2.6
+姓名：侯旭东
+学号：2015301020064
+班级：15级材料物理班
 ### 题目
 Use the Euler method to calculate cannon shell trajectories ignoring both air drag and the effect of air density(actually, ignoring the 
 former automatically rules out the latter). 
